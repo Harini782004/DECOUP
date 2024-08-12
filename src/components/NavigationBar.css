@@ -1,0 +1,33 @@
+/* NavigationBar.css */
+
+.navbar {
+    background-color: #1a1a1a !important; /* Dark background */
+}
+
+.navbar-brand {
+    color: #a29bfe !important; /* Cool purple color for brand text */
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.navbar-brand:hover {
+    color: #ffffff !important; /* White on hover */
+}
+
+.nav-link {
+    color: #a29bfe !important; /* Cool purple color for nav links */
+    font-size: 1.1em;
+}
+
+.nav-link:hover {
+    color: #ffffff !important; /* White on hover */
+}
+
+.navbar-toggler {
+    border-color: #a29bfe !important; /* Purple color for the toggler border */
+}
+
+.navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='%23a29bfe' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+

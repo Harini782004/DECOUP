@@ -1,0 +1,37 @@
+.sign-in-container {
+    background: #f0f2f5;
+    padding: 20px;
+}
+
+.sign-in-form {
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.sign-in-form h2 {
+    color: #6f42c1; /* Warm purple color */
+}
+
+.sign-in-form .form-control {
+    border-radius: 4px;
+}
+
+.sign-in-form .btn-primary {
+    background-color: #6f42c1; /* Warm purple color */
+    border: none;
+}
+
+.sign-in-form .btn-primary:hover {
+    background-color: #5a32a3; /* Darker warm purple */
+}
+
+.text-center a {
+    color: #6f42c1; /* Warm purple color */
+    text-decoration: none;
+}
+
+.text-center a:hover {
+    text-decoration: underline;
+}

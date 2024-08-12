@@ -1,0 +1,37 @@
+/* FavoritesPage.css */
+
+/* Style for the background image */
+.favorites-background {
+    background-image: url('https://tse4.mm.bing.net/th?id=OIP.LSZVs0tazZOzSSMeCztLEQHaCn&pid=Api&P=0&h=180'); /* Replace with your background image URL */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    padding-top: 20px;
+    color: white; /* Change the text color to white for better readability */
+}
+
+/* Style for the heading */
+h2 {
+    font-size: 2rem; /* Increase the font size */
+    font-weight: bold; /* Make the font bold */
+    margin-bottom: 1.5rem; /* Add some space below the heading */
+    color: white; /* Change color to white for better visibility */
+}
+
+/* Style for the coupon cards */
+.card {
+    background-color: rgba(255, 255, 255, 0.9); /* Add a semi-transparent background for better text visibility */
+}
+
+.card-title, .card-text {
+    color: black; /* Change the text color to black for better visibility on the card */
+}
+
+.card-body {
+    text-align: center; /* Center align the text inside the card body */
+}
+
+.mb-4 {
+    margin-bottom: 1.5rem !important; /* Increase margin bottom for rows */
+}

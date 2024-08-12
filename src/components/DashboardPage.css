@@ -1,0 +1,25 @@
+/* DashboardPage.css */
+
+/* Ensure the container has a bit of padding and margin for aesthetics */
+.dashboard-container {
+    padding: 20px;
+    background-color: #f8f9fa; /* Light grey background for contrast */
+    border-radius: 10px; /* Rounded corners for the container */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for a lifted effect */
+}
+
+/* Center the heading and add some margin for spacing */
+h2 {
+    margin-bottom: 20px;
+    color: #333; /* Darker color for better readability */
+}
+
+/* Center the chart within its column */
+.text-center {
+    text-align: center;
+}
+
+/* Add a margin to the top for spacing */
+.mt-5 {
+    margin-top: 3rem;
+}

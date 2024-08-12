@@ -1,0 +1,39 @@
+/* ProfilePage.css */
+
+/* Style for the background image */
+.profile-background {
+    background-image: url('https://wallpapercave.com/wp/wp5063607.jpg'); /* Replace with your background image URL */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white; /* Change the text color to white for better readability */
+}
+
+/* Style for the heading */
+h1 {
+    font-size: 3rem; /* Increase the font size */
+    font-weight: bold; /* Make the font bold */
+    margin-bottom: 2rem; /* Add some space below the heading */
+}
+
+/* Style for the buttons */
+button {
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    margin: 0.5rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: rgba(0, 123, 255, 0.8); /* Semi-transparent blue background */
+    color: white; /* White text color */
+    transition: background-color 0.3s ease; /* Smooth transition for background color */
+}
+
+button:hover {
+    background-color: rgba(0, 123, 255, 1); /* Solid blue background on hover */
+}

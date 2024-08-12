@@ -1,0 +1,58 @@
+.footer {
+    background-color: #1a1a1a; /* Dark background */
+    color: #a29bfe; /* Cool purple color for text */
+    padding: 20px 0;
+}
+
+.footer h4,
+.footer h5 {
+    color: #a29bfe;
+}
+
+.footer ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.footer ul li {
+    margin-bottom: 10px;
+}
+
+.footer ul li a {
+    color: #a29bfe;
+    text-decoration: none;
+}
+
+.footer ul li a:hover {
+    text-decoration: underline;
+}
+
+.app-download {
+    margin-top: 15px;
+}
+
+.qr-code {
+    width: 100px;
+    height: auto;
+}
+
+.social-icons {
+    margin-top: 15px;
+}
+
+.social-icon {
+    color: #a29bfe;
+    margin-right: 10px;
+    font-size: 24px;
+}
+
+.social-icon:hover {
+    color: #ffffff; /* White on hover */
+}
+
+.footer-bottom {
+    border-top: 1px solid #a29bfe;
+    padding-top: 10px;
+    margin-top: 20px;
+    text-align: center;
+}
